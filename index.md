@@ -3,6 +3,12 @@
 ---
 
 ### Featured Projects
+[Credit Risk Analysis (Machine Learning, Python)](https://github.com/dataelvisliang/german_credit_risk/blob/main/German_Credit_Risk.ipynb)
+- Data preprocessing involved handling missing values, encoding categorical variables, and normalizing numerical features.
+- K-means clustering was used to segment customers into risk groups based on their attributes.
+- Customer personas were developed based on the clustering results, identifying key characteristics of different risk groups.
+- A random forest model was used to predict customer risk and identify important features influencing risk classification.
+<img src="images/German Credit Risk.png?raw=true"/>
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
@@ -22,15 +28,6 @@
 <img src="images/Retail Analytic.png?raw=true"/>
 <img src="images/Retail Analytic2.png?raw=true"/>
 <img src="images/Retail Analytic1.png?raw=true"/>
-
----
-[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
-<img src="images/Random Forest AOC.png?raw=true"/>
-
 
 
 
