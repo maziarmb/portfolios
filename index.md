@@ -117,7 +117,7 @@ sum(case when NAME_CONTRACT_STATUS in ('Approved','Unused offer') then 1 else 0 
 sum(case when NAME_CONTRACT_STATUS in ('Refused') then 1 else 0 end) as num_of_ref,
 avg(case when NAME_CONTRACT_STATUS in ('Approved') then AMT_APPLICATION / AMT_CREDIT else null/*why use null?*/ end) as avg_APP_CREDIT_PERC
 from previous_application group by 1) base3
-on base.SK_ID_CURR=base3.SK_ID_CURR;
+on base.SK_ID_CURR=base3.SK_ID_CURR;'''
 
 
 [Here's the complete codes of the Credit Risk Analysis](model_updated - Credit Risk.md).
