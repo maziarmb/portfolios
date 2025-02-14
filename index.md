@@ -2,6 +2,8 @@
 
 ---
 
+[Here's the complete codes of the Credit Risk Analysis](model_updated - Credit Risk.md).
+
 ### Featured Projects
 [Credit Risk Analysis (Machine Learning, Python)](https://github.com/dataelvisliang/german_credit_risk/blob/main/German_Credit_Risk.ipynb)
 - Data preprocessing involved handling missing values, encoding categorical variables, and normalizing numerical features.
