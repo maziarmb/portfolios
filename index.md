@@ -2,13 +2,6 @@
 
 ---
 
-# SQL Query Example
-
-This query selects all customers from the database.
-
-```sql
-SELECT * FROM customers;
-
 
 
 [Here's the complete codes of the Credit Risk Analysis](model_updated - Credit Risk.md).
