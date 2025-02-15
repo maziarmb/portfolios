@@ -5,18 +5,18 @@
 ### Featured Projects:
 [Credit Risk Analysis (SQL, Python)](https://github.com/maziarmb/Credit_risk_maziarmb/blob/main/Maziar%20-%20Credit%20Risk.ipynb)
 - Data preprocessing included addressing missing values, encoding categorical variables, and normalizing numerical features to ensure the dataset was ready for analysis.
-- Building a SQL connection into Python
-- The train_test_split() function in scikit-learn splits datasets into training and testing subsets is used.
+- A SQL connection was built into Python for data access.
+- The train_test_split() function in scikit-learn was used to split datasets into training and testing subsets.
 - A random forest model was applied to predict customer risk.
 <img src="images/5. prediction using randomforest, tarain test, make predictions and plot the ROC curve - panda gif Gif.gif?raw=true"/>
 
 ---
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/maziar.molaei.birgani/viz/Digitalmarketing_17358566479240/Dashboard1)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
-- Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
-- Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
-- Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
-- Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
+- The analysis evaluates digital marketing performance using Google Analytics data, focusing on metrics like sessions, pageviews, bounce rate, and time on page.
+- The analysis identifies opportunities for improving user experience by highlighting areas where website performance can be enhanced based on data trends.
+- Key insights are visualized using Tableau to uncover trends, patterns, and anomalies for data-driven decisions.
+- Recommendations include optimizing website load time, improving content for high-bounce pages, and developing a mobile-first strategy.
 <img src="images/google merch digital marketing.png?raw=true"/>
 
 ---
