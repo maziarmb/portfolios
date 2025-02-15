@@ -8,7 +8,7 @@
 - Building a SQL connection into Python
 - The train_test_split() function in scikit-learn splits datasets into training and testing subsets is used.
 - A random forest model was applied to predict customer risk.
-<img src="images/German Credit Risk.png?raw=true"/>
+<img src="5. prediction using randomforest, tarain test, make predictions and plot the ROC curve - panda gif Gif.gif?raw=true"/>
 
 ---
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/maziar.molaei.birgani/viz/Digitalmarketing_17358566479240/Dashboard1)
