@@ -2,7 +2,7 @@
 
 ---
 
-### Featured Projects
+### Featured Projects:
 [Credit Risk Analysis (SQL, Python)](https://github.com/maziarmb/Credit_risk_maziarmb/blob/main/Maziar%20-%20Credit%20Risk.ipynb)
 - Data preprocessing included addressing missing values, encoding categorical variables, and normalizing numerical features to ensure the dataset was ready for analysis.
 - Building a SQL connection into Python
