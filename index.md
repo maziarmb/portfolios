@@ -8,10 +8,10 @@
 
 ### Featured Projects
 [Credit Risk Analysis (Machine Learning, Python)](https://github.com/dataelvisliang/german_credit_risk/blob/main/German_Credit_Risk.ipynb)
-- Data preprocessing involved handling missing values, encoding categorical variables, and normalizing numerical features.
-- K-means clustering was used to segment customers into risk groups based on their attributes.
-- Customer personas were developed based on the clustering results, identifying key characteristics of different risk groups.
-- A random forest model was used to predict customer risk and identify important features influencing risk classification.
+- Data preprocessing included addressing missing values, encoding categorical variables, and normalizing numerical features to ensure the dataset was ready for analysis.
+- Building a SQL connection into Python
+- The train_test_split() function in scikit-learn splits datasets into training and testing subsets is used.
+- A random forest model was applied to predict customer risk.
 <img src="images/German Credit Risk.png?raw=true"/>
 
 [Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
