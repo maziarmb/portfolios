@@ -11,7 +11,7 @@
 <img src="images/5. prediction using randomforest, tarain test, make predictions and plot the ROC curve - panda gif Gif.gif?raw=true"/>
 
 ---
-[Google Merchandise Store Dashboard (BigQuery)](https://github.com/maziarmb/Maziar---bigquery/blob/main/Bigquery.ipynb)
+[Google Merchandise Store (BigQuery)](https://github.com/maziarmb/Maziar---bigquery/blob/main/Bigquery.ipynb)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - The analysis evaluates digital marketing performance using Google Analytics data, focusing on metrics like sessions, pageviews, bounce rate, and time on page.
 - The analysis identifies opportunities for improving user experience by highlighting areas where website performance can be enhanced based on data trends.
@@ -19,7 +19,7 @@
 - Recommendations include optimizing website load time, improving content for high-bounce pages, and developing a mobile-first strategy.
 <img src="images/google merch digital marketing.png?raw=true"/>
 
-[Google Merchandise Store (Tableau)](https://public.tableau.com/app/profile/maziar.molaei.birgani/viz/Digitalmarketing_17358566479240/Dashboard1)
+[Google Merchandise Store Dashboard (Tableau)](https://public.tableau.com/app/profile/maziar.molaei.birgani/viz/Digitalmarketing_17358566479240/Dashboard1)
 
 
 ---
