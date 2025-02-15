@@ -11,7 +11,7 @@
 <img src="images/German Credit Risk.png?raw=true"/>
 
 ---
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/shuchang.liang/viz/GoogleAnalyticDashboard-GoogleMerchandiseStore/Dashboard)
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/maziar.molaei.birgani/viz/Digitalmarketing_17358566479240/Dashboard1)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
 - Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
