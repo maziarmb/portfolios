@@ -7,7 +7,7 @@
 [Here's the complete codes of the Credit Risk Analysis](model_updated - Credit Risk.md).
 
 ### Featured Projects
-[Credit Risk Analysis (Machine Learning, Python)](https://github.com/dataelvisliang/german_credit_risk/blob/main/German_Credit_Risk.ipynb)
+[Credit Risk Analysis (SQL, Python)](https://github.com/maziarmb/Credit_risk_maziarmb/blob/main/Maziar%20-%20Credit%20Risk.ipynb)
 - Data preprocessing included addressing missing values, encoding categorical variables, and normalizing numerical features to ensure the dataset was ready for analysis.
 - Building a SQL connection into Python
 - The train_test_split() function in scikit-learn splits datasets into training and testing subsets is used.
