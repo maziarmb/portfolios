@@ -5,12 +5,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Welcome to my GitHub portfolio! Here, you can explore a variety of projects that showcase my work with different programming languages, with a primary focus on SQL and Python. Each project highlights my ability to solve complex problems and implement efficient solutions using these languages. Feel free to browse through the repositories to see how I approach data analysis.
   <br>
   <br>
+  <a href="https://elvisliang.notion.site/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6?pvs=4">Get Back to the Home Page</a>
+  <br>
   <a href="https://public.tableau.com/app/profile/maziar.molaei.birgani/vizzes#!/">View My Tableau Work Samples</a>
   <br>
   <a href="https://elvisliang.notion.site/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6?pvs=4">View My Notion Portfolios</a>
   <br>
   <br>
-  <a href="https://elvisliang.notion.site/Portfolio-Elvis-Liang-0d7092fc3fc34f50a878f88a380471f6?pvs=4">Get Back to the Home Page</a>
 theme: jekyll-theme-minimal   
   
  
